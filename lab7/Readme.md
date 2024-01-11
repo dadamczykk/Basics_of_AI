@@ -10,4 +10,4 @@ Zadanie polega na implementacji różnych algorytmów gracza w grze w kółko i 
 * gracza wykorzystującego algorytm alpha-beta pruning,
 * gracza wykorzystującego wyszukiwanie w oparciu o Monte Carlo Tree Search (MCTS).
 
-Zawartość laboratorium dostępna jest w [notebooku](tictactoe.ipynb).
+Zawartość laboratorium dostępna jest w [notebooku](../../sztuczna-inteligencja/lab7/tictactoe.ipynb).
